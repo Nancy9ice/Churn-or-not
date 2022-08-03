@@ -29,18 +29,23 @@ ___
 On July 9, exactly 8:29am, the Chief Marketing Officer (CMO) of a Telecoms Company and I had this conversation. 
 
 CMO: Omo Nancy, I'm in trouble oh. 
+
 Me: Why, what happened?
 
 CMO: CEO says he's losing money and customers are cancelling their subscriptions. 
+
 Me: Ah! Wahala oh. But why? You and your team are not doing your jobs well?
 
 CMO: We are oh. We work our asses off. I seriously need your help. 
+
 Me: Ok. What can I do?
 
 CMO: I feel like my team and I relax when we acquire customers. We don't really know those that are likely to churn. I need you to help me figure out these people so we can pay more attention to them. 
+
 Me: Oh. That's not a problem. Do you have the records of all these customers?
 
 CMO: Yes, of course. I'll send it to your mail. Please help me. My job is at stake.
+
 Me: Alright, I'll do what I can. 
 
 CMO: Thank you. I owe you one. 
@@ -68,7 +73,9 @@ Information gain formula:
 
 ![](Formulas/Information%20Gain%20formula.png)
 
-The variables with information gains greater than zero were checked further to see if there were clear and significant distinctions between the two major classes: Stayed and Churned. Doing all these narrowed these variables down to five variables that were very important in determining the churn risks.
+The variables with information gains greater than zero were checked further to see if there were clear and significant distinctions between the two major classes: Stayed and Churned. 
+
+Doing all these narrowed these variables down to five variables that were very important in determining the churn risks.
 
 These variables include: Total revenue, refunds, Contract type, Offer type, and Tenure in Months. 
 
@@ -121,26 +128,29 @@ It means that these customers are subscribing to the less costly month-to-month 
 
 ![](Charts/Customer%20Percentage%20by%20Contract%20Type.png)
 
-You might probably have two questions in your mind. First, maybe this 46% isn't large after all because 43% of these customers are still with the company. The difference isn't much so maybe you disagree. Or maybe something is making them to leave. We know it's the competitors. But what was done to them to make them find solace in our competitors
+You might probably have two questions in your mind. First, maybe this 46% isn't large after all because 43% of these customers are still with the company. The difference isn't much so maybe you disagree. Or maybe something is making them to leave. 
 
-Second, how do we know that these people are spending less? They might actually be subscribing for expensive monthly subscriptions. 
+We know it's the competitors. But what was done to them to make them find solace in our competitors
+
+Second, how do we know that these customers are spending less? They might actually be subscribing for expensive monthly subscriptions. 
 
 Now, let me answer your first question about what was done to them to make them leave. 
 
 ##  <a name='OfferEiswhatwedidtothem'></a>Offer E is what we did to them
 
-53% of all customers that subscribed for offer E left. That's more than the stayed and new Offer E subscribers put together. 
+53% of all customers that subscribed to offer E left. That's more than the stayed and new Offer E subscribers put together. 
 
 ![](Charts/Customer%20Percentage%20by%20Offer.png)
 
-But what might be wrong with Offer E? Going back to the reasons these customers left. They left because of better devices, higher download bandwidth, more data, and better offer. Obvioulsy Offer E is not a better offer. It's possible that it lacks these features or even though these features are in the offer, the value might be low. 
+But what might be wrong with Offer E? Going back to the reasons these customers left. They left because of better devices, higher download bandwidth, more data, and better offer. 
+
+Obvioulsy Offer E is not a better offer. It's possible that it lacks these features or even though these features are present in the offer, the value might be low. 
 
 Onto the second question, how do we know they are spending less? 
-
-# Most of them are leaving before they pay more than $500
+ 
 ##  <a name='Mostofthemareleavingbeforetheypaymorethan$500'></a>Most of them are leaving before they pay more than $500
 
-A whooping 40% of these customers spent $500 or less before leaving. This number is way more than the 13% proportion of those that paid the second least revenue of between $500 and $1000. 
+A whooping 40% of these customers spent $500 or less before they left. This number is way more than the 13% proportion of those that paid the second least revenue of between $500 and $1000. 
 
 ![](Charts/Churned%20Customer%20Count%20by%20Revenue.png)
 
@@ -162,7 +172,7 @@ However, the marketers also have a role to play. The marketers should make these
 
 This will automatically make these customers spend both more time and more money. This puts them out of the profile of customers with high churn risks.
 
-Lastly, the business team might not cooperate in increasing the value of Ofer E. The marketers can still play their part by evaluating the other Offers and upselling the one that has more data and more bandwidth download. 
+Lastly, the business team might not cooperate in increasing the value of Ofer E. The marketers can still play their part by evaluating the other Offers and upselling the offer that has more data and more bandwidth download. 
 
 They could also choose to upsell Offer A since it has the less number of churned customers. 
 
